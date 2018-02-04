@@ -1,2 +1,2 @@
 # mypage
-my first web page
+This page contains my academic schedule.
